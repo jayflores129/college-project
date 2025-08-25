@@ -1,4 +1,4 @@
-<header class="container-fluid w3-center" style="color:#fff;background-image: url(food_images/others2.jpg); height:150px;padding:30px">
+<header class="container-fluid w3-center" style="color:#fff;background-image: url(images/banner.png); height:150px;padding:30px">
 	<div class="w3-right w3-padding accounts" style="position: absolute;top:5px;right:5px;"">
 		
 		<ul>
